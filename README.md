@@ -36,7 +36,11 @@ Documentos PDF, XLSX, etc.
       └─── Streamlit (app/ui.py)  → http://localhost:8501
 ```
 
-Para detalhes de design, consulte a documentação no código-fonte.
+## 🧠 Diagrama da Arquitetura
+
+<p align="center">
+  <img src="./arquitetura.png" alt="Arquitetura do Sistema" width="900"/>
+</p>
 
 ---
 
